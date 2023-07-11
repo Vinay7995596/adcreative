@@ -1,0 +1,147 @@
+.first-main-bg-container {
+    background-image: url('https://app.adcreative.ai/assets/png/auth-bg.webp');
+    background-size: cover;
+    text-align: center;
+    width: 50%;
+    border: 2px #e3c8c8 solid ;
+    padding: 5px;
+    border-radius: 30px;
+    margin-bottom: 10px;
+}
+
+body {
+    background-image: url('https://app.adcreative.ai/assets/png/main-bg.webp');
+}
+
+
+
+.two-container-forming {
+    display: flex;
+    border: #e3c8c8;
+    margin: 10px;
+    gap: 10px;
+}
+
+h6 {
+    font-weight: 600;
+    margin: 5px;
+    padding: 5px;
+}
+
+.heading-h2 {
+    color: #fff;
+    font-size: 22px;
+    font-family: 'Gilroy-Medium', sans-serif;
+}
+
+.heading-h1 {
+    color: #fff;
+    font-size: 28px;
+    font-weight: 800;
+    font-family: 'Gilroy-Medium', sans-serif;
+}
+
+.person-descreption{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Gilroy-Medium', sans-serif;
+}
+
+
+.stars-container {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    margin: 10px;
+}
+
+.person-main-descreption {
+    color: #fff;
+    font-size: 20px;
+}
+
+.person-desreption {
+    color: #fff;
+    font-size: 20px;
+    margin: 30px;
+}
+
+.form-container-heading {
+    color: #3d2d84;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Gilroy-Bold";
+}
+
+.form-container-heading-span {
+    color: #3d2d84;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Gilroy-Bold";
+    cursor: pointer;
+}
+
+.form-container-heading-strong {
+    color: hsla(344.1, 100%, 59.4%);
+    font-size: 30px;
+    font-weight: 600;
+    font-family: "Gilroy-Bold";
+    cursor: pointer;
+}
+
+.login-option {
+    font-size: 20px;
+}
+
+.second-main-bg-container-first {
+    background-color: hsla(253.3, 37.5%, 90.6%);
+    width: 50%;
+    border: 2px #e3c8c8 solid ;
+    padding: 5px;
+    border-radius: 30px;
+    margin-bottom: 10px;
+}
+
+input {
+    outline: none;
+    border: none;
+    background-color: #fff;
+    border-radius: 20px;
+    height: 60px;
+    max-height: 60px;
+    width: 80%;
+    margin: 10px;
+    padding-left: 20px;
+}
+
+.second-container-bg {
+    text-align: center;
+}
+
+.button-input {
+    color: #eeeeee;
+    background-color: rgb(121, 117, 134);
+    text-align: left;
+    font-weight: 600;
+    font-size: 15px;
+    opacity: 0.8;
+}
+
+.last-circle {
+    background-color: #FF3067;
+    height: 50px;
+    border-radius: 35px;
+    width: 50px;
+    position: absolute;
+    bottom: 0px;
+    right: 20px;
+}
+
+.icon {
+    color: #fff;
+    height: 20px;
+    position: absolute;
+    right: 15px;
+    bottom: 15px;
+}
